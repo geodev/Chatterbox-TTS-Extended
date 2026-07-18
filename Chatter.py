@@ -2067,7 +2067,7 @@ def main(server_name=None, server_port=None, share=False):
         demo.launch(
             server_name=server_name,
             server_port=server_port,
-            share=share,
+            share=true,
         )
 
 if __name__ == "__main__":
